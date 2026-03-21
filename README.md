@@ -12,7 +12,7 @@ In 2025, I published a working paper studyding an arbitrage between inverse vani
 
 ## Projects
 
-* Financial mathematics: 
+* Financial mathematics: [Gambler's Ruin Problem](https://github.com/VitalityMigo/gamblers_ruin), [Optimal Bet Sizing with Kelly Criterion](https://github.com/VitalityMigo/kelly_optimal_bet_sizing)
 * Quantitative finance projects: 
 * Practical trading and simulation projects: 
 
