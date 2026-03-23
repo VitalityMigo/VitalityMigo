@@ -12,8 +12,9 @@ In 2025, I published a working paper studying an arbitrage between inverse vanil
 ## Projects
 
 * Financial mathematics: [Multi-Armed Bandit with Bayesian Learning](https://github.com/VitalityMigo/bayesian-multi-armed-bandit), [Gambler's Ruin Problem](https://github.com/VitalityMigo/gamblers_ruin), [Optimal Bet Sizing with Kelly Criterion](https://github.com/VitalityMigo/kelly_optimal_bet_sizing)
-* Trading simulation projects: [Brent Futures Price-Formation](https://github.com/VitalityMigo/crude-oil-futures-price-formation), [Market-Making Game](https://github.com/VitalityMigo/market-making-simulation)
+* Practical trading dashboards:
 * Quantitative finance projects: [Vanilla-Binary Option Arbitrage](https://github.com/VitalityMigo/vanilla-binary-arbitrage), [Financial Time Series Analysis](https://github.com/VitalityMigo/financial_returns)
+* Simulation and games: [Brent Futures Price-Formation](https://github.com/VitalityMigo/crude-oil-futures-price-formation), [Market-Making Game](https://github.com/VitalityMigo/market-making-simulation)
 
 ---
 
