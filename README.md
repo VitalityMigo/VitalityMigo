@@ -4,7 +4,7 @@
 
 I'm a Master’s student at EDHEC. I like to use coding to attempt to extract valuable information from datasets. Especially, I'm interested in market microstructure, quoting dynamics, and optimization problems applied to inventory management and risks hedging. Below are few of my finished and in progress projects ! 
 
-**Research**
+**Research** <br>
 In 2025, I published a working paper studying an arbitrage between inverse vanilla option and prediction markets' binary options. The papier is named "Derivative Arbitrage Strategies in Cryptocurrency Markets" and is available on SSRN following [this link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138953).
 
 ---
